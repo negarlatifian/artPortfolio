@@ -1,9 +1,7 @@
 import Navbar from './components/Navbar';
-import { Inter } from 'next/font/google';
+import React from 'react';
 import './globals.css';
 import './layout.css';
-
-const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Negar Latifian',
@@ -13,9 +11,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang='en'>
-      <body className={inter.className}>
-        <Navbar />
-        {children}
+      <body>
+        <Navbar className='navbar' />
+        <section className='bodyElement'>{children}</section>
       </body>
     </html>
   );
