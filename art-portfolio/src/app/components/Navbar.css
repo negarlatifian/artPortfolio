@@ -1,3 +1,25 @@
+.logo {
+  padding: 1.7rem;
+}
+
+.menu {
+  padding: 6rem 1.7rem;
+}
+
+.menu__about {
+  padding-top: 2rem;
+}
+
+.menu__contact {
+  padding-top: 2.2rem;
+}
+
 .menu__list__text {
   font-family: 'nanum';
+  color: #404142;
+  font-size: 0.95rem;
+}
+
+.menu__list__text li {
+  padding-bottom: 0.2rem;
 }
