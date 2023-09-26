@@ -1,3 +1,4 @@
+import './Navbar.css';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -5,13 +6,13 @@ const Navbar = () => {
   return (
     <nav className='navbar'>
       <div className='logo'>
-        <Link href='/home'>
+        <Link href='/'>
           <Image src='/logo.png' alt='logo' width={100} height={50} />
         </Link>
       </div>
       <div className='menu'>
         <div className='menu__works'>
-          <ul>
+          <ul className='menu__list__text'>
             <li>
               <Link href='/O-AB-B-A-B-O-A-AB'>O-AB-B-A-B-O-A-AB</Link>
             </li>
@@ -37,10 +38,22 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-        <div className='menu__about'>
+        <div className='menu__about menu__list__text'>
           <Link href='/about'>About</Link>
         </div>
-        <div className='menu__contact'></div>
+        <div className='menu__contact menu__list__text'>
+          <ul>
+            <li>
+              <Link href=''>Email</Link>
+            </li>
+            <li>
+              <Link href=''>Instagram</Link>
+            </li>
+            <li>
+              <Link href=''>Email</Link>
+            </li>
+          </ul>
+        </div>
       </div>
     </nav>
   );
