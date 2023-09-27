@@ -40,3 +40,12 @@ p {
   /* display: flex;
   justify-content: center; */
 }
+.yarl__root {
+  --yarl__color_backdrop: #404142;
+}
+.yarl__thumbnails_track {
+  --yarl__thumbnails_thumbnail_background: #e2e5e7;
+}
+.yarl__thumbnails_container {
+  --yarl__thumbnails_container_background_color: rgb(40, 39, 39);
+}
