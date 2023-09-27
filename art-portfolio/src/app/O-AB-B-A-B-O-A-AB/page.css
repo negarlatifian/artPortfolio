@@ -20,6 +20,12 @@ p {
 
 .gallery {
   padding-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.gallery {
+  padding-top: 1.5rem;
 }
 
 .gallery__list {
@@ -31,7 +37,3 @@ p {
 .gallery__list li {
   padding: 1rem;
 }
-/* .gallery__dual {
-  display: flex;
-  flex-direction: row;
-} */

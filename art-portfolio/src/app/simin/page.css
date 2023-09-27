@@ -35,3 +35,8 @@ p {
   display: flex;
   flex-direction: row;
 } */
+.carousel {
+  margin: auto !important;
+  /* display: flex;
+  justify-content: center; */
+}

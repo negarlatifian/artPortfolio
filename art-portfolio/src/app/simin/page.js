@@ -38,14 +38,24 @@ const simin = () => {
         limitations.
       </p>
       <div className='gallery'>
-        <Carousel showArrows={true} showThumbs={true} showIndicators={true}>
+        <Carousel
+          showArrows={true}
+          showThumbs={true}
+          showIndicators={true}
+          autoPlay={true}
+          emulateTouch={true}
+          dynamicHeight={true}
+          infiniteLoop={true}
+          width={600}
+          className='carousel-me'
+        >
           {imageArray.map((item) => (
-            <div key={item.title}>
+            <div className='carousel-item' key={item.title}>
               <Image
                 src={item.imageSrc}
                 alt={item.title}
-                width={200}
-                height={500}
+                width={400}
+                height={1000}
               />
             </div>
           ))}
