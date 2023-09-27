@@ -10,22 +10,29 @@ const simin = () => {
     <section className='book'>
       <h1 className={nunito.className}>O-AB-B-A-B-O-A-AB</h1>
       <p className={nanum.className}>
-        "Healthy ... for Sale" is a common phrase that can be seen on every
-        corner of this alley. This alley, located in the heart of Tehran, is
-        officially called "Farhang Hosseini", but most people know it as "Kidney
-        Alley". That's because its walls are used as a black market for organ
-        trafficking. People who have no other choice come here to look for a
-        kidney or a liver, scanning the red graffiti that display the "gender,
-        age, health status, phone number" of the sellers.
+        Simin is a project that explores the identity and expression of Iranian
+        women who wear the mandatory hijab. The name Simin means "silvern" in
+        Persian, and it reflects the two main aspects of the project: the use of
+        silver as a material and a color, and the choice of Simin as a female
+        name.
         <br />
-        In this book, you can see a realistic panoramic photo of every door,
-        every step and every brick of one side of this alley. As you move along
-        the 7-meter photo in this book, you can imagine yourself walking through
-        the alley. To maintain the continuity of the alley's walls in the eyes
-        of the viewer, the pages are folded like an accordion instead of being
-        separated. Moreover, a magnifier is attached at the end of the book to
-        help you zoom in and the cover shows the picture of the "Farhang
-        Hosseini Alley" sign.
+        The project consists of a series of portraits of young Iranian women in
+        their modern outdoor outfits, contrasted with the imposed veil. The
+        portraits are made using a technique inspired by the Daguerreotype
+        process, which was the first widely used photographic method. The
+        technique involves exposing a silver-coated copper plate to light,
+        creating a mirror-like image on the metal surface. The result is a
+        unique and striking effect, where the viewer can see themselves
+        reflected in the portrait, as well as the details of the subject's face
+        and clothing.
+        <br />
+        The project aims to challenge the stereotypes and prejudices that
+        surround Iranian women, and to show their diversity and individuality.
+        By using an old medium to capture the present, the project also creates
+        a dialogue between the past and the future, and between tradition and
+        modernity. Simin is a project that celebrates the beauty and resilience
+        of Iranian women, and their ability to express themselves despite the
+        limitations.
       </p>
       <div className='gallery'></div>
     </section>

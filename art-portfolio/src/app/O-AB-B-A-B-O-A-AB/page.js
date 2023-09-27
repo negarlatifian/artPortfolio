@@ -1,9 +1,8 @@
 'use client';
 import { nunito, nanum } from '../fonts';
 import Image from 'next/image';
-import { CldImage } from 'next-cloudinary';
-import './page.css';
 import { imageArray } from './links.js';
+import './page.css';
 
 const book = () => {
   return (
