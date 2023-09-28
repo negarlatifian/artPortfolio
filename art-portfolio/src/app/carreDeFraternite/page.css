@@ -1,0 +1,44 @@
+.book {
+  padding: 1.7rem 1rem;
+  font-family: 'nanum';
+  font-size: 1.5rem;
+}
+
+h1 {
+  /* font-family: 'nunito'; */
+  font-size: 2rem;
+  color: #404142;
+}
+p {
+  font-family: Nanum_Myeongjo;
+  padding-top: 1.2rem;
+  color: #404142;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  font-weight: 400;
+}
+
+.gallery-container {
+  padding-top: 1.5rem;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.gallery-item {
+  width: 33%;
+  padding: 0.7rem;
+}
+
+.yarl__root {
+  --yarl__color_backdrop: #404142;
+}
+.yarl__thumbnails_track {
+  --yarl__thumbnails_thumbnail_background: #e2e5e7;
+}
+.yarl__thumbnails_container {
+  --yarl__thumbnails_container_background_color: rgb(40, 39, 39);
+}
