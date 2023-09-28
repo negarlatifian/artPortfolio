@@ -14,32 +14,14 @@ import Thumbnails from 'yet-another-react-lightbox/plugins/thumbnails';
 import Zoom from 'yet-another-react-lightbox/plugins/zoom';
 import 'yet-another-react-lightbox/plugins/thumbnails.css';
 
-const carreDeFraternite = () => {
+const trapped = () => {
   const [index, setIndex] = useState(-1);
   return (
     <section className='book'>
-      <h1 className={nunito.className}>
-        Carré de Fraternité - the Corner of Brotherhood
-      </h1>
+      <h1 className={nunito.className}>Trapped between Inside & Outside</h1>
       <p className={nanum.className}>
-        Mattresses, old cardboard, blankets, sleeping bags, tent. A repetitive
-        scene in your daily walk in the streets of Paris. Each of these spots is
-        the territory of a homeless who is sleeping in the streets due to lots
-        of reasons.
-      </p>
-      <p className={nanum.className}>
-        There are 7-8,000 rough sleepers on the streets of Paris. There are some
-        shelters considered for homeless people but lack of capacity, illegal
-        immigration and strict rules of shelters force many of rough sleepers to
-        sleep in the street; Strict rules such as no dogs, no couples, no
-        alcohol and some also refuse to take those with mental issues.
-      </p>
-      <p className={nanum.className}>
-        Unfortunately, an average of 480 homeless people are reported to have
-        died in the streets of France every year, organizations like the
-        Collectif Les Morts organize simple ceremonies in a dedicated corner of
-        the Thiais Cemetery outside Paris. The area set aside for homeless
-        burials is called the Carré de Fraternité - the Corner of Brotherhood.
+        A photo-essay with integration of the virtual reflected images and real
+        scenes in the streets of paris.
       </p>
       <div className='gallery-container'>
         <div
@@ -75,4 +57,4 @@ const carreDeFraternite = () => {
   );
 };
 
-export default carreDeFraternite;
+export default trapped;

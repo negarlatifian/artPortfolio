@@ -3,72 +3,66 @@ export const imageArray = [
     id: 1,
     title: 'Image 1',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717455/carreDeFraternite/01_cjwkzy.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717460/trappedInsideOutside/01_rllacz.jpg',
   },
   {
     id: 2,
     title: 'Image 2',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717482/carreDeFraternite/02_we198k.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717448/trappedInsideOutside/02_zt8nzd.jpg',
   },
   {
     id: 3,
     title: 'Image 3',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717457/carreDeFraternite/03_xathim.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717447/trappedInsideOutside/03_hiv0y0.jpg',
   },
   {
     id: 4,
     title: 'Image 4',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717459/carreDeFraternite/04_xh7zvh.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717451/trappedInsideOutside/04_v6nbgi.jpg',
   },
   {
     id: 5,
     title: 'Image 5',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717455/carreDeFraternite/05_ltvdse.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717477/trappedInsideOutside/05_v5nzmq.jpg',
   },
   {
     id: 6,
     title: 'Image 6',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717469/carreDeFraternite/06_ovkesr.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717475/trappedInsideOutside/06_ekfqjg.jpg',
   },
   {
     id: 7,
     title: 'Image 7',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717476/carreDeFraternite/07_jz8ocr.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717468/trappedInsideOutside/07_ca3ckj.jpg',
   },
   {
     id: 8,
     title: 'Image 8',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717468/carreDeFraternite/08_h157ae.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717459/trappedInsideOutside/08_bcncdt.jpg',
   },
   {
     id: 9,
     title: 'Image 9',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717466/carreDeFraternite/09_cpyhon.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717448/trappedInsideOutside/09_csxvft.jpg',
   },
   {
     id: 10,
     title: 'Image 10',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717465/carreDeFraternite/10_jjlbnr.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717448/trappedInsideOutside/10_thlsst.jpg',
   },
   {
     id: 11,
     title: 'Image 11',
     imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717459/carreDeFraternite/11_vbdq0d.jpg',
-  },
-  {
-    id: 12,
-    title: 'Image 12',
-    imageSrc:
-      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717471/carreDeFraternite/12_krrqxw.jpg',
+      'https://res.cloudinary.com/dh2zk8qgr/image/upload/v1695717471/trappedInsideOutside/11_ghb0xs.jpg',
   },
 ];
